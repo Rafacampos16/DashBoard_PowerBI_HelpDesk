@@ -1,4 +1,4 @@
-# DashBoard_PowerBI_HelpDesk
+# DashBoard_HelpDesk
 DashBoard de um projeto de análise de atendimentos Helpdesk com Power BI
 
 Link para visualizar a DashBoard online: 
